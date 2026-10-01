@@ -76,8 +76,6 @@ I'm a **Computer Engineer** specialising in **quantitative finance, artificial i
 
 <div align="center">
 
-*"In God we trust. All others must bring data."* — W. Edwards Deming
-
 <img src="https://komarev.com/ghpvc/?username=Fisjo&color=2F81F7&style=flat-square&label=Profile+views" />
 
 </div>
