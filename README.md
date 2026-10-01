@@ -3,7 +3,7 @@
 # Hi, I'm Ignacio Pinazo
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Quantitative+Finance+%7C+Artificial+Intelligence;Computer+Engineer+%40+UPV;MSc+in+Artificial+Intelligence+,Data+Cloud+%40+EDEM;Top+2%25+worldwide+%E2%80%94+IMC+Prosperity+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Quantitative+Finance+%7C+Artificial+Intelligence;Computer+Engineer+%40+UPV;MSc+in+Artificial+Intelligence+Data+Cloud+%40+EDEM;Top+2%25+worldwide+%E2%80%94+IMC+Prosperity+2026" alt="Typing SVG" />
 </a>
 
 Valencia, Spain
