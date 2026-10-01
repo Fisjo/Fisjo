@@ -31,44 +31,11 @@ I'm a **Computer Engineer** specialising in **quantitative finance, artificial i
 
 <div align="center">
 
-| IMC Prosperity 2026 | Thesis Strategy | Bachelor's Thesis | Universe |
-|:---:|:---:|:---:|:---:|
-| **Top 2%** worldwide<br>349 / 18,803 teams | **0.81 net Sharpe**<br>9 years out-of-sample | **9.5 / 10**<br>ML in financial markets | **500+**<br>US equities |
+| IMC Prosperity 2026  | Bachelor's Thesis |
+|:---:|:---:|
+| **Top 2%** worldwide<br>349 / 18,803 teams | **9.5 / 10**<br>ML in financial markets |
 
 </div>
-
----
-
-## Featured Projects
-
-### [Machine Learning Applied to Financial Markets](https://github.com/Fisjo/bachelor-thesis) — *Bachelor's Thesis (9.5/10)*
-End-to-end quantitative research pipeline covering **500+ US equities**.
-- Vectorised feature engineering
-- **XGBoost** model with **walk-forward validation**
-- **SHAP** interpretability
-- Backtesting under realistic frictions: commissions + **Amihud-based slippage**
-- **Net Sharpe of 0.81** over 9 years out-of-sample, validated with **bootstrap and permutation tests**
-
-### [IMC Prosperity 2026](https://github.com/Fisjo/imc-prosperity-4) — *International Algorithmic Trading Competition*
-Global quantitative trading competition hosted by **IMC Trading**.
-- **349 / 18,803 teams (Top 2%)** and **#3 in Spain**
-- Strategies across **market making**, **options pricing**, **market microstructure** and **statistical arbitrage**
-- Built under real-time competitive constraints
-
-### [Multi-Asset Momentum Strategy Backtest](https://github.com/Fisjo/momentum-strategy-backtest)
-Full backtesting environment for a **cross-sectional momentum** strategy.
-- Long-only and market-neutral variants
-- Monthly rebalancing with rolling-window return ranking
-- Transaction-cost modelling
-- Performance attribution: Sharpe, drawdown, turnover
-
----
-
-## Experience
-
-**Intern — Tax & Quantitative Services · EY** &nbsp;|&nbsp; *Jul 2025 – Oct 2025*
-- Contributed to **15+ R&D&i projects** across **5+ clients**, with individual project values exceeding **€250,000**, drafting the technical documentation used as justification before the Spanish tax authority.
-- Performed **cost-attribution analysis** and eligibility assessment on multi-year R&D activities, translating engineering deliverables into quantitative supporting evidence.
 
 ---
 
@@ -103,27 +70,6 @@ Full backtesting environment for a **cross-sectional momentum** strategy.
 **Quant Toolbox**
 
 `Walk-forward validation` · `Backtesting with frictions` · `Bootstrap & permutation tests` · `Market making` · `Options pricing` · `Statistical arbitrage` · `Momentum & mean reversion` · `VaR` · `Kelly criterion` · `Drawdown control`
-
----
-
-## Education
-
-| Period | Degree | Institution |
-|:---|:---|:---|
-| 2026 – present | **MSc in Artificial Intelligence** | EDEM Business School, Valencia |
-| 2022 – 2026 | **B.Sc. in Computer Engineering** | Universitat Politècnica de València (UPV) |
-| 2020 – 2022 | Spanish High School Diploma (Sciences) — GPA 9.1/10 | Colegio Gran Asociación |
-| 2018 – 2020 | American High School Diploma — GPA 3.4 | Academica International Studies |
-
-**Certifications:** Equity Trading · Algorithmic Trading · Arbitrage & HFT *(EY Learning)* · Modern JavaScript *(Udemy)*
-
----
-
-## Beyond the Code
-
-- **UPV Investment Club — Software Group** (2025 – present): algorithmic trading strategies (mean reversion, momentum), portfolio risk models (VaR, Kelly criterion, drawdown control) and quant competitions.
-- **UPV Basketball Team**: Regional champions (Comunitat Valenciana) and participants in the Spanish National University Basketball Championship.
-- **Languages:** Spanish (native) · English (Cambridge CAE) · French (DELF B1)
 
 ---
 
