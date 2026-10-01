@@ -27,18 +27,6 @@ I'm a **Computer Engineer** specialising in **quantitative finance, artificial i
 
 ---
 
-## Highlights at a Glance
-
-<div align="center">
-
-| IMC Prosperity 2026  | Bachelor's Thesis |
-|:---:|:---:|
-| **Top 2%** worldwide<br>349 / 18,803 teams | **9.5 / 10**<br>ML in financial markets |
-
-</div>
-
----
-
 ## Tech Stack
 
 **Languages**
