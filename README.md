@@ -64,10 +64,10 @@ I'm a **Computer Engineer** specialising in **quantitative finance, artificial i
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fisjo&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&v=2" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fisjo&layout=compact&hide_border=true&theme=github_dark&v=2" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fisjo&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fisjo&layout=compact&hide_border=true&theme=github_dark" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fisjo&hide_border=true&theme=github-dark-blue&v=2" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fisjo&hide_border=true&theme=github-dark-blue" />
 
 </div>
 
